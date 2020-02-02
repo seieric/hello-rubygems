@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/seieric/hello-rubygems.svg?branch=master)](https://travis-ci.com/seieric/hello-rubygems)
 # Hello::Rubygems
 
 This is a ruby library to say hello in your console. Really simple gem.
