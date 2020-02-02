@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/hello-rubygems.svg)](https://badge.fury.io/rb/hello-rubygems)
 [![Build Status](https://travis-ci.com/seieric/hello-rubygems.svg?branch=master)](https://travis-ci.com/seieric/hello-rubygems)
 # Hello::Rubygems
 
