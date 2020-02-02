@@ -11,7 +11,7 @@ This is a ruby library to say hello in your console. Really simple gem.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'hello-rubygems'
+gem 'hello/rubygems'
 ```
 
 And then execute:
